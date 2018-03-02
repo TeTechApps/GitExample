@@ -10,4 +10,7 @@ public class TestAddFile {
     int tere = 45;
     int ededede= 1;
     int bhgh;
+    int eden = 3;
+    int talBranch = 121;
+    int talata = 675;
 }
