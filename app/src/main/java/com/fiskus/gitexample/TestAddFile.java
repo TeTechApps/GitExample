@@ -8,4 +8,5 @@ public class TestAddFile {
 
 
     int tere = 45;
+    int ededede= 1;
 }
