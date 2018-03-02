@@ -7,4 +7,5 @@ public class TestAddFile {
 
     int eden = 3;
     int talBranch = 121;
+    int talata = 675;
 }
