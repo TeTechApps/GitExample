@@ -16,7 +16,7 @@ public class TestAddFile {
 
 
     int vd = 66;
-
+    int army = 1;
 
     String vdfv= "fdvf";
 }
