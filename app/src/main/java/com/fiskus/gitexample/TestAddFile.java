@@ -4,9 +4,7 @@ public class TestAddFile {
     int u = 7;
     int tal = 23;
     String TAL = "KING";
-    String EDEN = "EDEN";
-
 
     int eden = 3;
-
+    int talBranch = 121;
 }
