@@ -6,4 +6,6 @@ public class TestAddFile {
     String TAL = "KING";
     String EDEN = "EDEN";
 
+
+    int tere = 45;
 }
