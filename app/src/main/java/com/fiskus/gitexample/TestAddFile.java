@@ -15,5 +15,8 @@ public class TestAddFile {
     int talata = 675;
 
 
+    int vd = 66;
+
+
     String vdfv= "fdvf";
 }
