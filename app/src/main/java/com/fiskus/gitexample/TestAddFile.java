@@ -2,8 +2,7 @@ package com.fiskus.gitexample;
 
 public class TestAddFile {
     int u = 7;
-    int tal = 23;
-    String TAL = "KING";
+    String TAL = "KINdfgG";
     String EDEN = "EDEN";
 
 
@@ -21,4 +20,6 @@ public class TestAddFile {
     int army = 1;
 
     String vdfv= "fdvf";
+
+    int tal = 30;
 }
